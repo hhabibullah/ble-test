@@ -1,0 +1,9 @@
+<!DOCTYPE CrossStudio_Project_File>
+<solution Name="ble_app_template_pca10040_s132" target="8" version="2">
+  <project Name="ble_app_template_pca10040_s132">
+    <configuration
+      Name="Common"
+      project_directory=""
+      project_type="Executable" />
+  </project>
+</solution>
